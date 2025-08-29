@@ -52,7 +52,7 @@ export default function Navbar() {
           {isLoggedIn ? (
             <div className="relative">
               <Image
-                src="/profile.png"
+                src="https://images.unsplash.com/photo-1527980965255-d3b416303d12?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8YXZhdGFyfGVufDB8MnwwfHx8MA%3D%3D"
                 alt="profile"
                 width={38}
                 height={38}
